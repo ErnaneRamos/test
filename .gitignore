@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 email_scan.log
+emails.txt
+contas_validas.txt
+mensagens_encontradas.json
+erros.log
+scanner_detalhado.log

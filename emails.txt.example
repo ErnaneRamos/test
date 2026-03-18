@@ -1,0 +1,6 @@
+# Formato: email:senha
+# Uma conta por linha.
+# Não use espaços em branco antes/depois.
+
+contato@empresa.com.br:minhaSenha123
+comercial@provedor.com:outraSenhaForte
